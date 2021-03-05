@@ -1,0 +1,207 @@
+/home/wruslan/github-mit/gpr-pthread-barrier/exec/main_gpr_thread_barrier.cxx
+2021-03-05 12:15:23.598193153 	Starting in main(), Bismillah 3 times WRY. 
+2021-03-05 12:15:23.598213220 	MAIN PROGRAM STARTED .... 
+
+2021-03-05 12:15:23.598222455 	Running main_gpr_thread_barrier.cxx 
+=============================================================
+2021-03-05 12:15:23.598230243 	Timer 1 start. 
+2021-03-05 12:15:23.598236150 	CHECK 1: Check environment, date, time and clock.
+2021-03-05 12:15:23.598244836 	Current date and time: Fri Mar 05, 2021 12:15:23 
+2021-03-05 12:15:23.598252906 	Current directory: /home/wruslan/github-mit/gpr-pthread-barrier
+2021-03-05 12:15:23.598258928 	Current runfile  : /home/wruslan/github-mit/gpr-pthread-barrier/exec/main_gpr_thread_barrier.cxx 
+2021-03-05 12:15:23.598264804 	Clock time resolution 	= 1 nanoseconds
+2021-03-05 12:15:23.598270590 	Timer 1 stop. Duration (timer start-to-stop) = 0.000040381 seconds. 
+
+=============================================================
+2021-03-05 12:15:23.598281255 	Timer 2 start. 
+2021-03-05 12:15:23.598286491 	CHECK 2.1: Display generation of uniform random integers.
+j = 0 Uniform random_integer between (-1000, 1000) = -144 
+j = 1 Uniform random_integer between (-1000, 1000) = -204 
+j = 2 Uniform random_integer between (-1000, 1000) = 419 
+j = 3 Uniform random_integer between (-1000, 1000) = -922 
+j = 4 Uniform random_integer between (-1000, 1000) = 166 
+j = 5 Uniform random_integer between (-1000, 1000) = 802 
+j = 6 Uniform random_integer between (-1000, 1000) = -886 
+j = 7 Uniform random_integer between (-1000, 1000) = 488 
+j = 8 Uniform random_integer between (-1000, 1000) = 615 
+j = 9 Uniform random_integer between (-1000, 1000) = 481 
+
+SUCCESS: Above are the 10 generated uniform random integers between (-1000, 1000). 
+
+2021-03-05 12:15:23.598323051 	CHECK 2.2: Check randomness of generated of uniform random integers.
+Random integers in range[0, 100) = 	bin_count[0] = 100706 	cumulative check_bin_count = 100706 
+Random integers in range[101, 200) = 	bin_count[1] = 101057 	cumulative check_bin_count = 201763 
+Random integers in range[201, 300) = 	bin_count[2] = 100873 	cumulative check_bin_count = 302636 
+Random integers in range[301, 400) = 	bin_count[3] = 101003 	cumulative check_bin_count = 403639 
+Random integers in range[401, 500) = 	bin_count[4] = 100524 	cumulative check_bin_count = 504163 
+Random integers in range[501, 600) = 	bin_count[5] = 101390 	cumulative check_bin_count = 605553 
+Random integers in range[601, 700) = 	bin_count[6] = 101269 	cumulative check_bin_count = 706822 
+Random integers in range[701, 800) = 	bin_count[7] = 101506 	cumulative check_bin_count = 808328 
+Random integers in range[801, 900) = 	bin_count[8] = 101130 	cumulative check_bin_count = 909458 
+Random integers in range[901, 1000) = 	bin_count[9] = 90542 	cumulative check_bin_count = 1000000 
+
+SUCCESS: Above are the 1000000 uniform random integers in the range(0, 1000) accounted for in the 10 bins. 
+
+2021-03-05 12:15:23.655902990 	Timer 2 stop. Duration (timer start-to-stop) = 0.057607211 seconds. 
+
+=============================================================
+2021-03-05 12:15:23.655913378 	Timer 3 start. 
+2021-03-05 12:15:23.655917869 	CHECK 3.1: Display generation of uniform random doubles.
+j = 0 Uniform random_doubles between (-1001.444450, 2001.666650) = 1225.370446 
+j = 1 Uniform random_doubles between (-1001.444450, 2001.666650) = 1317.216617 
+j = 2 Uniform random_doubles between (-1001.444450, 2001.666650) = -349.728133 
+j = 3 Uniform random_doubles between (-1001.444450, 2001.666650) = 1178.091149 
+j = 4 Uniform random_doubles between (-1001.444450, 2001.666650) = 903.971916 
+j = 5 Uniform random_doubles between (-1001.444450, 2001.666650) = 275.022158 
+j = 6 Uniform random_doubles between (-1001.444450, 2001.666650) = 212.185425 
+j = 7 Uniform random_doubles between (-1001.444450, 2001.666650) = -867.956386 
+j = 8 Uniform random_doubles between (-1001.444450, 2001.666650) = 401.996779 
+j = 9 Uniform random_doubles between (-1001.444450, 2001.666650) = 400.519846 
+
+SUCCESS: Above are the 10 generated uniform random doubles between (-1001.444450, 2001.666650). 
+
+2021-03-05 12:15:23.655978967 	CHECK 3.2: Check randomness of generated of uniform random doubles.
+Random doubles in range[0.000000, 100.000000) = 	bin_count[0] = 99691 	cumulative check_bin_count = 99691 
+Random doubles in range[101.000000, 200.000000) = 	bin_count[1] = 100007 	cumulative check_bin_count = 199698 
+Random doubles in range[201.000000, 300.000000) = 	bin_count[2] = 100169 	cumulative check_bin_count = 299867 
+Random doubles in range[301.000000, 400.000000) = 	bin_count[3] = 100131 	cumulative check_bin_count = 399998 
+Random doubles in range[401.000000, 500.000000) = 	bin_count[4] = 99759 	cumulative check_bin_count = 499757 
+Random doubles in range[501.000000, 600.000000) = 	bin_count[5] = 99992 	cumulative check_bin_count = 599749 
+Random doubles in range[601.000000, 700.000000) = 	bin_count[6] = 100452 	cumulative check_bin_count = 700201 
+Random doubles in range[701.000000, 800.000000) = 	bin_count[7] = 99871 	cumulative check_bin_count = 800072 
+Random doubles in range[801.000000, 900.000000) = 	bin_count[8] = 99985 	cumulative check_bin_count = 900057 
+Random doubles in range[901.000000, 1000.000000) = 	bin_count[9] = 99943 	cumulative check_bin_count = 1000000 
+
+SUCCESS: Above are the 1000000 uniform random doubles in the range(0.000000, 1000.000000) accounted for in the 10 bins. 
+
+2021-03-05 12:15:23.724343772 	Timer 3 stop. Duration (timer start-to-stop) = 0.068415131 seconds. 
+
+=============================================================
+
+2021-03-05 12:15:23.724379531 	MAIN PROGRAM COMPLETED SUCCESSFULLY. 
+2021-03-05 12:15:23.724384095 	Ending in main(), Alhamdulillah 3 times WRY. 
+=============================================================
+[2021-03-05 12:15:23] process terminated successfully, elapsed time: 00.30s
+
+===========================================================
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github-mit/gpr-pthread-barrier$ la -al
+total 44
+drwxrwxr-x 8 wruslan wruslan 4096 Mar  5 10:03 .
+drwxrwxr-x 8 wruslan wruslan 4096 Mar  5 09:46 ..
+drwxrwxr-x 2 wruslan wruslan 4096 Mar  5 12:18 docs
+drwxrwxr-x 2 wruslan wruslan 4096 Mar  5 12:14 exec
+drwxrwxr-x 2 wruslan wruslan 4096 Mar  5 09:45 figures
+drwxrwxr-x 2 wruslan wruslan 4096 Mar  5 09:45 files
+-rw-rw-r-- 1 wruslan wruslan 4364 Mar  5 09:56 gpr_thread_barrier.gpr
+drwxrwxr-x 2 wruslan wruslan 4096 Mar  5 12:14 obj
+-rw-rw-r-- 1 wruslan wruslan   56 Mar  5 09:48 README.md
+drwxrwxr-x 4 wruslan wruslan 4096 Mar  5 11:20 src
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github-mit/gpr-pthread-barrier$ tree ./
+./
+├── docs
+│   └── session-01.txt
+├── exec
+│   └── main_gpr_thread_barrier.cxx
+├── figures
+├── files
+├── gpr_thread_barrier.gpr
+├── obj
+│   ├── clang_ref_cache.db
+│   ├── dtstamp.cpp.stderr
+│   ├── dtstamp.cpp.stdout
+│   ├── dtstamp.cswi
+│   ├── dtstamp.d
+│   ├── dtstamp.o
+│   ├── gpr_thread_barrier-loc.xml
+│   ├── gpr_thread_barrier_-loc.xml
+│   ├── gpsauto.cgpr
+│   ├── libgpr_thread_barrier.a
+│   ├── libgpr_thread_barrier.deps
+│   ├── main_gpr_thread_barrier.cpp.stderr
+│   ├── main_gpr_thread_barrier.cpp.stdout
+│   ├── main_gpr_thread_barrier.cswi
+│   ├── main_gpr_thread_barrier.d
+│   ├── main_gpr_thread_barrier.o
+│   ├── random_int_dbl.cpp.stderr
+│   ├── random_int_dbl.cpp.stdout
+│   ├── random_int_dbl.cswi
+│   ├── random_int_dbl.d
+│   └── random_int_dbl.o
+├── README.md
+└── src
+    ├── main_gpr_thread_barrier.cpp
+    ├── mod-dtstamp
+    │   ├── dtstamp.cpp
+    │   └── dtstamp.hpp
+    └── mod-random-int-dbl
+        ├── random_int_dbl.cpp
+        └── random_int_dbl.hpp
+
+8 directories, 30 files
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github-mit/gpr-pthread-barrier$ 
+
+===========================================================
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github-mit/gpr-pthread-barrier$ tree ./
+./
+├── docs
+│   └── session-01.txt
+├── exec
+│   └── main_gpr_thread_barrier.cxx
+├── figures
+│   ├── Compiling-C++-codes-in-GNAT-Studio.jpg
+│   └── Running-C++-codes-in-GNAT-Studio.jpg
+├── files
+├── gpr_thread_barrier.gpr
+├── obj
+│   ├── clang_ref_cache.db
+│   ├── dtstamp.cpp.stderr
+│   ├── dtstamp.cpp.stdout
+│   ├── dtstamp.cswi
+│   ├── dtstamp.d
+│   ├── dtstamp.o
+│   ├── gpr_thread_barrier-loc.xml
+│   ├── gpr_thread_barrier_-loc.xml
+│   ├── gpsauto.cgpr
+│   ├── libgpr_thread_barrier.a
+│   ├── libgpr_thread_barrier.deps
+│   ├── main_gpr_thread_barrier.cpp.stderr
+│   ├── main_gpr_thread_barrier.cpp.stdout
+│   ├── main_gpr_thread_barrier.cswi
+│   ├── main_gpr_thread_barrier.d
+│   ├── main_gpr_thread_barrier.o
+│   ├── random_int_dbl.cpp.stderr
+│   ├── random_int_dbl.cpp.stdout
+│   ├── random_int_dbl.cswi
+│   ├── random_int_dbl.d
+│   └── random_int_dbl.o
+├── README.md
+└── src
+    ├── main_gpr_thread_barrier.cpp
+    ├── mod-dtstamp
+    │   ├── dtstamp.cpp
+    │   └── dtstamp.hpp
+    ├── mod-pthread-rt-barrier
+    │   ├── pthread_rt_barrier.cpp
+    │   └── pthread_rt_barrier.hpp
+    └── mod-random-int-dbl
+        ├── random_int_dbl.cpp
+        └── random_int_dbl.hpp
+
+9 directories, 38 files
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github-mit/gpr-pthread-barrier$ 
+
+===========================================================
+gprbuild -d -P/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr -s -k
+Compile
+   [C++]          main_gpr_thread_barrier.cpp
+   [C++]          dtstamp.cpp
+   [C++]          random_int_dbl.cpp
+   [C++]          pthread_rt_barrier.cpp
+Link
+   [archive]      libgpr_thread_barrier.a
+   [index]        libgpr_thread_barrier.a
+   [link]         main_gpr_thread_barrier.cpp
+[2021-03-05 12:53:49] process terminated successfully, elapsed time: 01.46s
+
+===========================================================
+

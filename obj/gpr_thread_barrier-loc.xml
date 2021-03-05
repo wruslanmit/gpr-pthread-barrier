@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/main_gpr_thread_barrier.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 40" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/main_gpr_thread_barrier.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-dtstamp/dtstamp.hpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-dtstamp/dtstamp.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 71" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/main_gpr_thread_barrier.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 122" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 120" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 122" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 120" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 66" line=" 117" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 120" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 104" line=" 122" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 120" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 61" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/main_gpr_thread_barrier.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.hpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 62" line=" 57" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-dtstamp/dtstamp.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-random-int-dbl/random_int_dbl.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/main_gpr_thread_barrier.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 61" >
+      <vfs_project>/home/wruslan/github-mit/gpr-pthread-barrier/gpr_thread_barrier.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/main_gpr_thread_barrier.cpp</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 10" line=" 32" >
+      <vfs_project />
+      <vfs_file>/home/wruslan/github-mit/gpr-pthread-barrier/src/mod-pthread-rt-barrier/pthread_rt_barrier.cpp</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
